@@ -7,3 +7,12 @@ body{
 h1, p {
 	margin-bottom: 1em;
 }
+.image {
+	float: right;
+	width:500px;
+	height:281px;
+	background-image: url('../images/shirt.png');
+}
+.image:hover {
+	background-image: url('../images/shirt.gif');
+}
