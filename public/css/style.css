@@ -1,5 +1,9 @@
 body{
   /* use PT Sans, the custom web font that's loaded in the .html head */
   font-family: Raleway, 'PT Sans', sans-serif;
+  font-size: 2em;
   margin: 5em;
+}
+h1, p {
+	margin-bottom: 1em;
 }
